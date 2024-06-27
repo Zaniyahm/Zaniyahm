@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saniya Mary Jacob</h1>
-<h3 align="center">A passionate DevOps Engineer form India</h3>
+<h3 align="center">A passionate Cyber Security Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaniyahm&label=Profile%20views&color=0e75b6&style=flat" alt="zaniyahm" /> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/nicemondominic/nicemondominic/main/coding.gif" /></p>
