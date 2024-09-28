@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saniya Mary Jacob</h1>
 <h3 align="center">A passionate Cyber Security Analyst from India</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/nicemondominic/nicemondominic/main/coding.gif" /></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" /></p>
 
 - 🔭 I’m currently working on **Web Development and Cyber Security projects**
 
